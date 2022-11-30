@@ -1,9 +1,23 @@
-# Minions-translator
-Are you a fan of minions? Did you know that the gibberish they say is an actual language. Use the translator to convert your text from English to Minion speak or Banana language.
+# groot-translator
 
-Tech stak used:
-1)HTML
-2) CSS
-3) JS
+Yoo Homie!!! 
 
-You can access it here [Minions](https://minions-bananaa-translator.netlify.app)
+
+Are you also a fan of Minion like me??
+
+Then what are you waiting for ??
+
+check out the website to talk to them in their lang
+
+
+This site will [translate](https://minions-bananaa-translator.netlify.app/) your to groot's language
+
+
+Tech Stack Used:
+
+HTML
+
+CSS 
+
+
+JS
